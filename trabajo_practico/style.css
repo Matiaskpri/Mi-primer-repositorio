@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Permanent+Marker&display=swap');
+
+.logo-principal{ color: black;
+    background-image: url(./imagen/6495da7241185414c12ddc02_videoGamePlanet-p-800.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    width:120vw ;
+    height: 120hw;
+    margin: 10px;
+    
+}
+
+h2{ color: blue;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
